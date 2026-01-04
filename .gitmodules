@@ -12,7 +12,7 @@
 	url = https://github.com/ONLYOFFICE/sdkjs.git
 [submodule "server"]
 	path = server
-	url = https://github.com/capkakitiga/sdkjs.git
+	url = https://github.com/capkakitiga/server.git
 [submodule "web-apps"]
 	path = web-apps
 	url = https://github.com/capkakitiga/web-apps.git
