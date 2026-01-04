@@ -12,10 +12,10 @@
 	url = https://github.com/ONLYOFFICE/sdkjs.git
 [submodule "server"]
 	path = server
-	url = ../server.git
+	url = https://github.com/capkakitiga/sdkjs.git
 [submodule "web-apps"]
 	path = web-apps
-	url = ../web-apps.git
+	url = https://github.com/capkakitiga/web-apps.git
 [submodule "sdkjs-plugins/plugin-highlightcode"]
 	path = sdkjs-plugins/plugin-highlightcode
 	url = https://github.com/ONLYOFFICE/plugin-highlightcode
